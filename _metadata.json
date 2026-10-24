@@ -1,0 +1,15 @@
+{
+  "hash": "3eadac73",
+  "configHash": "18ddb3fd",
+  "lockfileHash": "148c31cd",
+  "browserHash": "90438ad7",
+  "optimized": {
+    "@mediapipe/tasks-vision": {
+      "src": "../../../../node_modules/@mediapipe/tasks-vision/vision_bundle.mjs",
+      "file": "@mediapipe_tasks-vision.js",
+      "fileHash": "168098c8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
